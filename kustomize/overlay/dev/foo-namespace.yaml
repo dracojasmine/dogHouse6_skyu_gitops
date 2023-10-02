@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: foo
+  labels:
+    environment-id: env_cfac8a59-3541-43ee-a743-c297a1f09d8d
+    project-id: project_3dd671f5-0093-416e-9efa-ddd693f22ecf
+    project-name: dogHouse6
+    environment-name: dev
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
